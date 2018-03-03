@@ -5,5 +5,5 @@ All scripts uses Python 3.
 
 Contact-me on Skype: dir3ct.dlc
 
-@ Greetz - Tropa Do Cenora
+@ Greetz - Tropa Do Cenora - Biscoitao
 	
